@@ -1,4 +1,5 @@
-/*
+/*幹你娘
+
  This file is part of the OdinMS Maple Story Server
  Copyright (C) 2008 ~ 2010 Patrick Huy <patrick.huy@frz.cc>
  Matthias Butz <matze@odinms.de>
@@ -72,7 +73,7 @@ import tools.packet.CWvsContext.BuffPacket;
 import tools.packet.CWvsContext.InfoPacket;
 import tools.packet.CWvsContext.InventoryPacket;
 import tools.types.ConcurrentEnumMap;
-import tools.types.MockIOSession;
+import tools.types.MockOSession;
 import tools.types.Pair;
 import tools.types.Triple;
 
